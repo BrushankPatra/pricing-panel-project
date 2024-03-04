@@ -229,3 +229,9 @@ body {
     background-color: #ce7b1e;
     color: white;
 }
+
+@media (min-width: 900px) {
+    .panel {
+        flex-direction: row;
+    }
+}
