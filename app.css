@@ -134,6 +134,11 @@ table {
     border-spacing: 0;
 }
 
+html {
+    box-sizing: border-box;
+    font-family: "Open Sans", sans-serif;
+}
+
 body {
     background-color: #E09540;
 }
